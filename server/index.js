@@ -99,5 +99,3 @@ app.post("/receive", async (req, res) => {
 app.listen(port, () => {
   console.log(`Listening on port ${port}!`);
 });
-
-// HrMgp6tw_8Bq8Y@
